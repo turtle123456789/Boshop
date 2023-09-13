@@ -1,0 +1,102 @@
+
+.header .top-header img{
+    width: 100%;
+    height: 70px;
+    flex-shrink: 0;
+}
+.header .menu{
+    display: flex;
+    justify-content: space-evenly   ;
+    align-items: center;
+    padding: 20px 0;
+} 
+.header .menu .link-filter{
+    display: flex;
+    align-items: center; /* Căn giữa theo chiều dọc */
+    justify-content: center; /* Căn giữa theo chiều ngang */
+    width: 46px;
+    height: 46px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.20);
+    position: relative;
+}
+.header .menu .link-filter .icon_link-filter{
+    height: 1px;
+    width: 31px;
+    position: absolute;
+    position: relative;
+    background-color: #000;
+    cursor: pointer;
+}
+.header .menu .link-filter .icon_link-filter::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 10px;
+    height: 1px;
+    width: 31px;
+    background-color: #000;
+}
+.header .menu .link-filter .icon_link-filter::after{
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 10px;
+    height: 1px;
+    width: 31px;
+    background-color: #000;
+}
+.header .menu .logo{
+    width: 224px;
+    height: 43px;
+}
+.header .menu .search-product{
+    display: flex;
+    max-width: 674px;
+    flex-wrap: wrap;
+    padding-top: 24px;
+}
+.header .menu .search-product .form-search{
+    width: 100%;
+    display: flex;
+}
+.header .menu .search-product  .form-search input{
+    border: none;
+    background: rgba(203, 96, 136, 0.15);
+    height: 42px;
+    width: 100%;
+    border-radius: 10px 0 0 10px;
+}
+.header .menu .search-product .form-search input::placeholder {
+    padding-left: 10px;
+}
+.header .menu .search-product .form-search button{
+    background-color: var(--pink);
+    border: none;
+    width: 64px;
+    height: 42px;
+    border-radius: 0 10px 10px 0;
+}
+.header .menu a{
+    text-decoration:none;
+}
+.header .menu .search-product .choose-use{
+
+}
+.header .menu .search-product .choose-use a{
+    font-size: 12px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+    color: #818181;
+    margin-right: 20px;
+}
+.header .menu .header-contact{
+    border-right: 1px solid var(--black);
+}
+.header .menu .header-contact span{
+    margin: 0 25px;
+}

@@ -1,0 +1,185 @@
+.home{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.home .home-ads{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+}
+.home .home-ads .menu-left ul .list_menu-left{
+
+}
+.home .home-ads .menu-left ul .list_menu-left li{
+    list-style: none;
+    margin-bottom: 24px;
+    width: 282px;
+}
+.home .home-ads .menu-left ul .list_menu-left li a{
+    font-weight: 500;
+    line-height: 19px;
+    text-decoration: none;
+    color: var(--black);
+    display: inline-flex;
+    width: 100%;
+    align-items: center;
+    padding-bottom: 8px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+}
+.home .home-ads .menu-left ul .list_menu-left li a span{
+    margin-left: 18px;
+    font-size: 16px;
+}
+.home .home-ads .menu-left ul .list_menu-left li a .link_list_menu-left
+{
+    margin-left: auto;
+}
+.home .home-ads .banner-main img{
+    width: 100%;
+    border-radius: 5px;
+}
+.home .home-ads .banner-right img{
+    width: 100%;
+    border-radius: 5px;
+}
+.home .menu-evens{
+    display: flex;
+    justify-content: space-around;
+}
+.home .menu-evens .link-evens{
+    color: var(--black);
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+    text-decoration: none;
+}
+.home .menu-evens .link-evens li{
+    list-style: none;
+    font-size: 14px;
+}   
+.home .sale .sale-time{
+    background: var(--orange);
+    color: var(--white);
+    border-radius: 10px 10px 0 0;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+}
+.home .sale .sale-time{
+    display: flex;
+    justify-content: space-between;
+}
+.home .sale .sale-time .sale-left{
+    display: flex;
+    align-items: center;
+    padding: 5px 0;
+}
+.home .sale .sale-time .sale-left img{
+    font-size: 30px;
+    padding: 5px;
+}
+.home .sale .sale-time .sale-left p{
+    margin: 0;
+    border-right: 1px solid var(--white);
+    padding-right: 20px;
+
+}
+.home .sale .sale-time .sale-left .time{
+    border-radius: var(--border-radius);
+    background: var(--white);
+    color: var(--black);
+    padding: 5px;
+}
+.home .sale .sale-time .sale-left span:first-child{
+    padding: 0 20px;
+}
+.home .sale .sale-time .sale-right{
+    display: flex;
+    align-items: center;
+}
+.home .sale .sale-time .sale-right .see-more{
+    border-radius: var(--border-radius);
+    background: #B8D77A;
+    text-decoration: none;
+    color: var(--black);
+    padding: 2.5px 10px;
+    margin-right: 10px;
+}
+.home .sale .sale-products{
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+}
+#products{
+    max-width: 20%;
+}
+#products div:not(:first-child){
+    margin: 0 10px;
+}
+#products a{
+    color: var(--black);
+    text-decoration: none;
+}
+#products .form-ship span{
+    color: var(--white);
+    border-radius: 10px;
+    padding: 0 10px;
+}
+#products .form-ship span:first-child{
+    background: var(--blue);
+}
+#products .form-ship span:nth-child(2){
+    background: var(--brown);
+}
+#products .product-name a{
+    font-size: 14px;
+    font-weight: 500;
+}
+#products .product-price{
+    display: flex;
+    justify-content: space-between;
+}
+#products .product-price .original-price{
+    color: #6B1D14;
+    font-weight: 500;
+}
+#products .product-price .discounted-price{
+    color: #848484;
+    text-decoration: line-through;
+    padding-left: 5px;
+}
+#products .product-price .discount-percentage{
+    background: #BBD66A;
+    color: var(--white);
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    font-size: 10px;
+    line-height: 30px;
+    text-align: center;
+}
+#products .level-of-liking{
+    display: flex;
+    justify-content: space-between;
+}
+#products .level-of-liking .review{
+    display: flex;
+    align-items: center;
+}
+#products .level-of-liking .review .quantity-buy img{
+    border-left: 2px solid var(--black);
+    padding-left: 10px;
+}
+#products .level-of-liking .review span{
+    font-size: 10px;
+}
+#products .gift-sale{
+    border: 2px dashed var(--orange-sale);
+}
+#products .gift-sale span{
+    color: var(--orange-sale);
+    padding-left: 10px;
+    padding-right: 20px;
+    font-size: 12px;
+}
