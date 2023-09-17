@@ -156,244 +156,254 @@
             <div class="sale-products">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <div id="products">
-                            <div class="product-img">
-                                <img src="./img/image 119 (12).webp" alt="">
-                            </div>
-                            <div class="form-ship">
-                                <span>FREESHIP HCM</span>
-                                <span>BEST</span>
-                            </div>
-                            <div class="product-name">
-                                <a href="">BNBG</a>
-                            </div>
-                            <div class="product-content crop-text2">
-                                <a href="">Mặt Nạ Miếng Dưỡng Ẩm, Dưỡng Trắng, Giảm Mụn, Phục Hồi Da</a>
-                            </div>
-                            <div class="product-price">
-                                <div class="discount">
-                                    <span class="original-price">339.000 đ</span>
-                                    <span class="discounted-price">400.000 đ</span>
+                        <a href="">
+                            <div id="products">
+                                <div class="product-img">
+                                    <img src="./img/image 119 (12).webp" alt="">
                                 </div>
-                                <span class="discount-percentage">
-                                    -15%
-                                </span>
-                            </div>
-                            <div class="level-of-liking">
-                                <div class="review">
-                                    <svg id="review-star" xmlns="http://www.w3.org/2000/svg" width="53" height="11" viewBox="0 0 53 11" fill="none">
-                                        <path d="M5.34561 0.0715332L6.54578 3.76526H10.4296L7.28752 6.04811L8.48769 9.74184L5.34561 7.45899L2.20354 9.74184L3.40371 6.04811L0.261633 3.76526H4.14545L5.34561 0.0715332Z" fill="#768134"/>
-                                        <path d="M15.6093 0.0715332L16.8094 3.76526H20.6933L17.5512 6.04811L18.7514 9.74184L15.6093 7.45899L12.4672 9.74184L13.6674 6.04811L10.5253 3.76526H14.4091L15.6093 0.0715332Z" fill="#768134"/>
-                                        <path d="M26.3007 0.0715332L27.5009 3.76526H31.3847L28.2426 6.04811L29.4428 9.74184L26.3007 7.45899L23.1586 9.74184L24.3588 6.04811L21.2167 3.76526H25.1005L26.3007 0.0715332Z" fill="#768134"/>
-                                        <path d="M36.6708 0.0715332L37.871 3.76526H41.7548L38.6127 6.04811L39.8129 9.74184L36.6708 7.45899L33.5287 9.74184L34.7289 6.04811L31.5868 3.76526H35.4706L36.6708 0.0715332Z" fill="#768134"/>
-                                        <path d="M47.3622 0.0715332L48.5624 3.76526H52.4462L49.3041 6.04811L50.5043 9.74184L47.3622 7.45899L44.2201 9.74184L45.4203 6.04811L42.2782 3.76526H46.162L47.3622 0.0715332Z" fill="#DDD9D9"/>
-                                    </svg>
-                                    <span style="padding-bottom:10px">(16)</span>
-                                    <div class="quantity-buy">
-                                        <img src="./img/shopping-cart 10.svg" alt="">
-                                        <span>1.145</span>
+                                <div class="form-ship">
+                                    <span>FREESHIP HCM</span>
+                                    <span>BEST</span>
+                                </div>
+                                <div class="product-name">
+                                    <a href=""><h4>BNBG</h4></a>
+                                </div>
+                                <div class="product-content crop-text2">
+                                    <a href="">Mặt Nạ Miếng Dưỡng Ẩm, Dưỡng Trắng, Giảm Mụn, Phục Hồi Da</a>
+                                </div>
+                                <div class="product-price">
+                                    <div class="discount">
+                                        <span class="original-price">339.000 đ</span>
+                                        <span class="discounted-price">400.000 đ</span>
+                                    </div>
+                                    <span class="discount-percentage">
+                                        -15%
+                                    </span>
+                                </div>
+                                <div class="level-of-liking">
+                                    <div class="review">
+                                        <svg id="review-star" xmlns="http://www.w3.org/2000/svg" width="53" height="11" viewBox="0 0 53 11" fill="none">
+                                            <path d="M5.34561 0.0715332L6.54578 3.76526H10.4296L7.28752 6.04811L8.48769 9.74184L5.34561 7.45899L2.20354 9.74184L3.40371 6.04811L0.261633 3.76526H4.14545L5.34561 0.0715332Z" fill="#768134"/>
+                                            <path d="M15.6093 0.0715332L16.8094 3.76526H20.6933L17.5512 6.04811L18.7514 9.74184L15.6093 7.45899L12.4672 9.74184L13.6674 6.04811L10.5253 3.76526H14.4091L15.6093 0.0715332Z" fill="#768134"/>
+                                            <path d="M26.3007 0.0715332L27.5009 3.76526H31.3847L28.2426 6.04811L29.4428 9.74184L26.3007 7.45899L23.1586 9.74184L24.3588 6.04811L21.2167 3.76526H25.1005L26.3007 0.0715332Z" fill="#768134"/>
+                                            <path d="M36.6708 0.0715332L37.871 3.76526H41.7548L38.6127 6.04811L39.8129 9.74184L36.6708 7.45899L33.5287 9.74184L34.7289 6.04811L31.5868 3.76526H35.4706L36.6708 0.0715332Z" fill="#768134"/>
+                                            <path d="M47.3622 0.0715332L48.5624 3.76526H52.4462L49.3041 6.04811L50.5043 9.74184L47.3622 7.45899L44.2201 9.74184L45.4203 6.04811L42.2782 3.76526H46.162L47.3622 0.0715332Z" fill="#DDD9D9"/>
+                                        </svg>
+                                        <span style="padding-bottom:10px">(16)</span>
+                                        <div class="quantity-buy">
+                                            <img src="./img/shopping-cart 10.svg" alt="">
+                                            <span>1.145</span>
+                                        </div>
+                                    </div>
+                                    <div class="like">
+                                        <img src="./img/heart 8.svg" alt="" style="color: red;">
                                     </div>
                                 </div>
-                                <div class="like">
-                                    <img src="./img/heart 8.svg" alt="" style="color: red;">
+                                <div class="gift-sale">
+                                    <span class="crop-text1" >Tặng băng đô cột tóc bất kì khi mua mặt nạ miếng dưỡng ẩm, dưỡng trắng,giảm mụn, phục hồi da</span>
                                 </div>
                             </div>
-                            <div class="gift-sale">
-                                <span class="crop-text1" >Tặng băng đô cột tóc bất kì khi mua mặt nạ miếng dưỡng ẩm, dưỡng trắng,giảm mụn, phục hồi da</span>
-                            </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="swiper-slide">
-                        <div id="products">
-                            <div class="product-img">
-                                <img src="./img/image 119 (13).webp" alt="">
-                            </div>
-                            <div class="form-ship">
-                                <span>FREESHIP HCM</span>
-                                <span>BEST</span>
-                            </div>
-                            <div class="product-name">
-                                <a href="">BNBG</a>
-                            </div>
-                            <div class="product-content crop-text2">
-                                <a href="">Mặt Nạ Miếng Dưỡng Ẩm, Dưỡng Trắng, Giảm Mụn, Phục Hồi Da</a>
-                            </div>
-                            <div class="product-price">
-                                <div class="discount">
-                                    <span class="original-price">339.000 đ</span>
-                                    <span class="discounted-price">400.000 đ</span>
+                        <a href="">
+                            <div id="products">
+                                <div class="product-img">
+                                    <img src="./img/image 119 (13).webp" alt="">
                                 </div>
-                                <span class="discount-percentage">
-                                    -15%
-                                </span>
-                            </div>
-                            <div class="level-of-liking">
-                                <div class="review">
-                                    <svg id="review-star" xmlns="http://www.w3.org/2000/svg" width="53" height="11" viewBox="0 0 53 11" fill="none">
-                                        <path d="M5.34561 0.0715332L6.54578 3.76526H10.4296L7.28752 6.04811L8.48769 9.74184L5.34561 7.45899L2.20354 9.74184L3.40371 6.04811L0.261633 3.76526H4.14545L5.34561 0.0715332Z" fill="#768134"/>
-                                        <path d="M15.6093 0.0715332L16.8094 3.76526H20.6933L17.5512 6.04811L18.7514 9.74184L15.6093 7.45899L12.4672 9.74184L13.6674 6.04811L10.5253 3.76526H14.4091L15.6093 0.0715332Z" fill="#768134"/>
-                                        <path d="M26.3007 0.0715332L27.5009 3.76526H31.3847L28.2426 6.04811L29.4428 9.74184L26.3007 7.45899L23.1586 9.74184L24.3588 6.04811L21.2167 3.76526H25.1005L26.3007 0.0715332Z" fill="#768134"/>
-                                        <path d="M36.6708 0.0715332L37.871 3.76526H41.7548L38.6127 6.04811L39.8129 9.74184L36.6708 7.45899L33.5287 9.74184L34.7289 6.04811L31.5868 3.76526H35.4706L36.6708 0.0715332Z" fill="#768134"/>
-                                        <path d="M47.3622 0.0715332L48.5624 3.76526H52.4462L49.3041 6.04811L50.5043 9.74184L47.3622 7.45899L44.2201 9.74184L45.4203 6.04811L42.2782 3.76526H46.162L47.3622 0.0715332Z" fill="#DDD9D9"/>
-                                    </svg>
-                                    <span style="padding-bottom:10px">(16)</span>
-                                    <div class="quantity-buy">
-                                        <img src="./img/shopping-cart 10.svg" alt="">
-                                        <span>1.145</span>
+                                <div class="form-ship">
+                                    <span>FREESHIP HCM</span>
+                                    <span>BEST</span>
+                                </div>
+                                <div class="product-name">
+                                    <a href=""><h4>BNBG</h4></a>
+                                </div>
+                                <div class="product-content crop-text2">
+                                    <a href="">Mặt Nạ Miếng Dưỡng Ẩm, Dưỡng Trắng, Giảm Mụn, Phục Hồi Da</a>
+                                </div>
+                                <div class="product-price">
+                                    <div class="discount">
+                                        <span class="original-price">339.000 đ</span>
+                                        <span class="discounted-price">400.000 đ</span>
+                                    </div>
+                                    <span class="discount-percentage">
+                                        -15%
+                                    </span>
+                                </div>
+                                <div class="level-of-liking">
+                                    <div class="review">
+                                        <svg id="review-star" xmlns="http://www.w3.org/2000/svg" width="53" height="11" viewBox="0 0 53 11" fill="none">
+                                            <path d="M5.34561 0.0715332L6.54578 3.76526H10.4296L7.28752 6.04811L8.48769 9.74184L5.34561 7.45899L2.20354 9.74184L3.40371 6.04811L0.261633 3.76526H4.14545L5.34561 0.0715332Z" fill="#768134"/>
+                                            <path d="M15.6093 0.0715332L16.8094 3.76526H20.6933L17.5512 6.04811L18.7514 9.74184L15.6093 7.45899L12.4672 9.74184L13.6674 6.04811L10.5253 3.76526H14.4091L15.6093 0.0715332Z" fill="#768134"/>
+                                            <path d="M26.3007 0.0715332L27.5009 3.76526H31.3847L28.2426 6.04811L29.4428 9.74184L26.3007 7.45899L23.1586 9.74184L24.3588 6.04811L21.2167 3.76526H25.1005L26.3007 0.0715332Z" fill="#768134"/>
+                                            <path d="M36.6708 0.0715332L37.871 3.76526H41.7548L38.6127 6.04811L39.8129 9.74184L36.6708 7.45899L33.5287 9.74184L34.7289 6.04811L31.5868 3.76526H35.4706L36.6708 0.0715332Z" fill="#768134"/>
+                                            <path d="M47.3622 0.0715332L48.5624 3.76526H52.4462L49.3041 6.04811L50.5043 9.74184L47.3622 7.45899L44.2201 9.74184L45.4203 6.04811L42.2782 3.76526H46.162L47.3622 0.0715332Z" fill="#DDD9D9"/>
+                                        </svg>
+                                        <span style="padding-bottom:10px">(16)</span>
+                                        <div class="quantity-buy">
+                                            <img src="./img/shopping-cart 10.svg" alt="">
+                                            <span>1.145</span>
+                                        </div>
+                                    </div>
+                                    <div class="like">
+                                        <img src="./img/heart 8.svg" alt="" style="color: red;">
                                     </div>
                                 </div>
-                                <div class="like">
-                                    <img src="./img/heart 8.svg" alt="" style="color: red;">
+                                <div class="gift-sale">
+                                    <span class="crop-text1" >Tặng băng đô cột tóc bất kì khi mua mặt nạ miếng dưỡng ẩm, dưỡng trắng,giảm mụn, phục hồi da</span>
                                 </div>
                             </div>
-                            <div class="gift-sale">
-                                <span class="crop-text1" >Tặng băng đô cột tóc bất kì khi mua mặt nạ miếng dưỡng ẩm, dưỡng trắng,giảm mụn, phục hồi da</span>
-                            </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="swiper-slide">
-                        <div id="products">
-                            <div class="product-img">
-                                <img src="./img/image 119 (14).webp" alt="">
-                            </div>
-                            <div class="form-ship">
-                                <span>FREESHIP HCM</span>
-                                <span>BEST</span>
-                            </div>
-                            <div class="product-name">
-                                <a href="">BNBG</a>
-                            </div>
-                            <div class="product-content crop-text2">
-                                <a href="">Mặt Nạ Miếng Dưỡng Ẩm, Dưỡng Trắng, Giảm Mụn, Phục Hồi Da</a>
-                            </div>
-                            <div class="product-price">
-                                <div class="discount">
-                                    <span class="original-price">339.000 đ</span>
-                                    <span class="discounted-price">400.000 đ</span>
+                        <a href="">
+                            <div id="products">
+                                <div class="product-img">
+                                    <img src="./img/image 119 (14).webp" alt="">
                                 </div>
-                                <span class="discount-percentage">
-                                    -15%
-                                </span>
-                            </div>
-                            <div class="level-of-liking">
-                                <div class="review">
-                                    <svg id="review-star" xmlns="http://www.w3.org/2000/svg" width="53" height="11" viewBox="0 0 53 11" fill="none">
-                                        <path d="M5.34561 0.0715332L6.54578 3.76526H10.4296L7.28752 6.04811L8.48769 9.74184L5.34561 7.45899L2.20354 9.74184L3.40371 6.04811L0.261633 3.76526H4.14545L5.34561 0.0715332Z" fill="#768134"/>
-                                        <path d="M15.6093 0.0715332L16.8094 3.76526H20.6933L17.5512 6.04811L18.7514 9.74184L15.6093 7.45899L12.4672 9.74184L13.6674 6.04811L10.5253 3.76526H14.4091L15.6093 0.0715332Z" fill="#768134"/>
-                                        <path d="M26.3007 0.0715332L27.5009 3.76526H31.3847L28.2426 6.04811L29.4428 9.74184L26.3007 7.45899L23.1586 9.74184L24.3588 6.04811L21.2167 3.76526H25.1005L26.3007 0.0715332Z" fill="#768134"/>
-                                        <path d="M36.6708 0.0715332L37.871 3.76526H41.7548L38.6127 6.04811L39.8129 9.74184L36.6708 7.45899L33.5287 9.74184L34.7289 6.04811L31.5868 3.76526H35.4706L36.6708 0.0715332Z" fill="#768134"/>
-                                        <path d="M47.3622 0.0715332L48.5624 3.76526H52.4462L49.3041 6.04811L50.5043 9.74184L47.3622 7.45899L44.2201 9.74184L45.4203 6.04811L42.2782 3.76526H46.162L47.3622 0.0715332Z" fill="#DDD9D9"/>
-                                    </svg>
-                                    <span style="padding-bottom:10px">(16)</span>
-                                    <div class="quantity-buy">
-                                        <img src="./img/shopping-cart 10.svg" alt="">
-                                        <span>1.145</span>
+                                <div class="form-ship">
+                                    <span>FREESHIP HCM</span>
+                                    <span>BEST</span>
+                                </div>
+                                <div class="product-name">
+                                    <a href=""><h4>BNBG</h4></a>
+                                </div>
+                                <div class="product-content crop-text2">
+                                    <a href="">Mặt Nạ Miếng Dưỡng Ẩm, Dưỡng Trắng, Giảm Mụn, Phục Hồi Da</a>
+                                </div>
+                                <div class="product-price">
+                                    <div class="discount">
+                                        <span class="original-price">339.000 đ</span>
+                                        <span class="discounted-price">400.000 đ</span>
+                                    </div>
+                                    <span class="discount-percentage">
+                                        -15%
+                                    </span>
+                                </div>
+                                <div class="level-of-liking">
+                                    <div class="review">
+                                        <svg id="review-star" xmlns="http://www.w3.org/2000/svg" width="53" height="11" viewBox="0 0 53 11" fill="none">
+                                            <path d="M5.34561 0.0715332L6.54578 3.76526H10.4296L7.28752 6.04811L8.48769 9.74184L5.34561 7.45899L2.20354 9.74184L3.40371 6.04811L0.261633 3.76526H4.14545L5.34561 0.0715332Z" fill="#768134"/>
+                                            <path d="M15.6093 0.0715332L16.8094 3.76526H20.6933L17.5512 6.04811L18.7514 9.74184L15.6093 7.45899L12.4672 9.74184L13.6674 6.04811L10.5253 3.76526H14.4091L15.6093 0.0715332Z" fill="#768134"/>
+                                            <path d="M26.3007 0.0715332L27.5009 3.76526H31.3847L28.2426 6.04811L29.4428 9.74184L26.3007 7.45899L23.1586 9.74184L24.3588 6.04811L21.2167 3.76526H25.1005L26.3007 0.0715332Z" fill="#768134"/>
+                                            <path d="M36.6708 0.0715332L37.871 3.76526H41.7548L38.6127 6.04811L39.8129 9.74184L36.6708 7.45899L33.5287 9.74184L34.7289 6.04811L31.5868 3.76526H35.4706L36.6708 0.0715332Z" fill="#768134"/>
+                                            <path d="M47.3622 0.0715332L48.5624 3.76526H52.4462L49.3041 6.04811L50.5043 9.74184L47.3622 7.45899L44.2201 9.74184L45.4203 6.04811L42.2782 3.76526H46.162L47.3622 0.0715332Z" fill="#DDD9D9"/>
+                                        </svg>
+                                        <span style="padding-bottom:10px">(16)</span>
+                                        <div class="quantity-buy">
+                                            <img src="./img/shopping-cart 10.svg" alt="">
+                                            <span>1.145</span>
+                                        </div>
+                                    </div>
+                                    <div class="like">
+                                        <img src="./img/heart 8.svg" alt="" style="color: red;">
                                     </div>
                                 </div>
-                                <div class="like">
-                                    <img src="./img/heart 8.svg" alt="" style="color: red;">
+                                <div class="gift-sale">
+                                    <span class="crop-text1" >Tặng băng đô cột tóc bất kì khi mua mặt nạ miếng dưỡng ẩm, dưỡng trắng,giảm mụn, phục hồi da</span>
                                 </div>
                             </div>
-                            <div class="gift-sale">
-                                <span class="crop-text1" >Tặng băng đô cột tóc bất kì khi mua mặt nạ miếng dưỡng ẩm, dưỡng trắng,giảm mụn, phục hồi da</span>
-                            </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="swiper-slide">
-                        <div id="products">
-                            <div class="product-img">
-                                <img src="./img/image 119 (15).webp" alt="">
-                            </div>
-                            <div class="form-ship">
-                                <span>FREESHIP HCM</span>
-                                <span>BEST</span>
-                            </div>
-                            <div class="product-name">
-                                <a href="">BNBG</a>
-                            </div>
-                            <div class="product-content crop-text2">
-                                <a href="">Mặt Nạ Miếng Dưỡng Ẩm, Dưỡng Trắng, Giảm Mụn, Phục Hồi Da</a>
-                            </div>
-                            <div class="product-price">
-                                <div class="discount">
-                                    <span class="original-price">339.000 đ</span>
-                                    <span class="discounted-price">400.000 đ</span>
+                        <a href="">
+                            <div id="products">
+                                <div class="product-img">
+                                    <img src="./img/image 119 (15).webp" alt="">
                                 </div>
-                                <span class="discount-percentage">
-                                    -15%
-                                </span>
-                            </div>
-                            <div class="level-of-liking">
-                                <div class="review">
-                                    <svg id="review-star" xmlns="http://www.w3.org/2000/svg" width="53" height="11" viewBox="0 0 53 11" fill="none">
-                                        <path d="M5.34561 0.0715332L6.54578 3.76526H10.4296L7.28752 6.04811L8.48769 9.74184L5.34561 7.45899L2.20354 9.74184L3.40371 6.04811L0.261633 3.76526H4.14545L5.34561 0.0715332Z" fill="#768134"/>
-                                        <path d="M15.6093 0.0715332L16.8094 3.76526H20.6933L17.5512 6.04811L18.7514 9.74184L15.6093 7.45899L12.4672 9.74184L13.6674 6.04811L10.5253 3.76526H14.4091L15.6093 0.0715332Z" fill="#768134"/>
-                                        <path d="M26.3007 0.0715332L27.5009 3.76526H31.3847L28.2426 6.04811L29.4428 9.74184L26.3007 7.45899L23.1586 9.74184L24.3588 6.04811L21.2167 3.76526H25.1005L26.3007 0.0715332Z" fill="#768134"/>
-                                        <path d="M36.6708 0.0715332L37.871 3.76526H41.7548L38.6127 6.04811L39.8129 9.74184L36.6708 7.45899L33.5287 9.74184L34.7289 6.04811L31.5868 3.76526H35.4706L36.6708 0.0715332Z" fill="#768134"/>
-                                        <path d="M47.3622 0.0715332L48.5624 3.76526H52.4462L49.3041 6.04811L50.5043 9.74184L47.3622 7.45899L44.2201 9.74184L45.4203 6.04811L42.2782 3.76526H46.162L47.3622 0.0715332Z" fill="#DDD9D9"/>
-                                    </svg>
-                                    <span style="padding-bottom:10px">(16)</span>
-                                    <div class="quantity-buy">
-                                        <img src="./img/shopping-cart 10.svg" alt="">
-                                        <span>1.145</span>
+                                <div class="form-ship">
+                                    <span>FREESHIP HCM</span>
+                                    <span>BEST</span>
+                                </div>
+                                <div class="product-name">
+                                    <a href=""><h4>BNBG</h4></a>
+                                </div>
+                                <div class="product-content crop-text2">
+                                    <a href="">Mặt Nạ Miếng Dưỡng Ẩm, Dưỡng Trắng, Giảm Mụn, Phục Hồi Da</a>
+                                </div>
+                                <div class="product-price">
+                                    <div class="discount">
+                                        <span class="original-price">339.000 đ</span>
+                                        <span class="discounted-price">400.000 đ</span>
+                                    </div>
+                                    <span class="discount-percentage">
+                                        -15%
+                                    </span>
+                                </div>
+                                <div class="level-of-liking">
+                                    <div class="review">
+                                        <svg id="review-star" xmlns="http://www.w3.org/2000/svg" width="53" height="11" viewBox="0 0 53 11" fill="none">
+                                            <path d="M5.34561 0.0715332L6.54578 3.76526H10.4296L7.28752 6.04811L8.48769 9.74184L5.34561 7.45899L2.20354 9.74184L3.40371 6.04811L0.261633 3.76526H4.14545L5.34561 0.0715332Z" fill="#768134"/>
+                                            <path d="M15.6093 0.0715332L16.8094 3.76526H20.6933L17.5512 6.04811L18.7514 9.74184L15.6093 7.45899L12.4672 9.74184L13.6674 6.04811L10.5253 3.76526H14.4091L15.6093 0.0715332Z" fill="#768134"/>
+                                            <path d="M26.3007 0.0715332L27.5009 3.76526H31.3847L28.2426 6.04811L29.4428 9.74184L26.3007 7.45899L23.1586 9.74184L24.3588 6.04811L21.2167 3.76526H25.1005L26.3007 0.0715332Z" fill="#768134"/>
+                                            <path d="M36.6708 0.0715332L37.871 3.76526H41.7548L38.6127 6.04811L39.8129 9.74184L36.6708 7.45899L33.5287 9.74184L34.7289 6.04811L31.5868 3.76526H35.4706L36.6708 0.0715332Z" fill="#768134"/>
+                                            <path d="M47.3622 0.0715332L48.5624 3.76526H52.4462L49.3041 6.04811L50.5043 9.74184L47.3622 7.45899L44.2201 9.74184L45.4203 6.04811L42.2782 3.76526H46.162L47.3622 0.0715332Z" fill="#DDD9D9"/>
+                                        </svg>
+                                        <span style="padding-bottom:10px">(16)</span>
+                                        <div class="quantity-buy">
+                                            <img src="./img/shopping-cart 10.svg" alt="">
+                                            <span>1.145</span>
+                                        </div>
+                                    </div>
+                                    <div class="like">
+                                        <img src="./img/heart 8.svg" alt="" style="color: red;">
                                     </div>
                                 </div>
-                                <div class="like">
-                                    <img src="./img/heart 8.svg" alt="" style="color: red;">
+                                <div class="gift-sale">
+                                    <span class="crop-text1" >Tặng băng đô cột tóc bất kì khi mua mặt nạ miếng dưỡng ẩm, dưỡng trắng,giảm mụn, phục hồi da</span>
                                 </div>
                             </div>
-                            <div class="gift-sale">
-                                <span class="crop-text1" >Tặng băng đô cột tóc bất kì khi mua mặt nạ miếng dưỡng ẩm, dưỡng trắng,giảm mụn, phục hồi da</span>
-                            </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="swiper-slide">
-                        <div id="products">
-                            <div class="product-img">
-                                <img src="./img/image 119 (16).webp" alt="">
-                            </div>
-                            <div class="form-ship">
-                                <span>FREESHIP HCM</span>
-                                <span>BEST</span>
-                            </div>
-                            <div class="product-name">
-                                <a href="">BNBG</a>
-                            </div>
-                            <div class="product-content crop-text2">
-                                <a href="">Mặt Nạ Miếng Dưỡng Ẩm, Dưỡng Trắng, Giảm Mụn, Phục Hồi Da Mặt Nạ Miếng Dưỡng Ẩm, Dưỡng Trắng, Giảm Mụn, Phục Hồi Da</a>
-                            </div>
-                            <div class="product-price">
-                                <div class="discount">
-                                    <span class="original-price">339.000 đ</span>
-                                    <span class="discounted-price">400.000 đ</span>
+                        <a href="">
+                            <div id="products">
+                                <div class="product-img">
+                                    <img src="./img/image 119 (16).webp" alt="">
                                 </div>
-                                <span class="discount-percentage">
-                                    -15%
-                                </span>
-                            </div>
-                            <div class="level-of-liking">
-                                <div class="review">
-                                    <svg id="review-star" xmlns="http://www.w3.org/2000/svg" width="53" height="11" viewBox="0 0 53 11" fill="none">
-                                        <path d="M5.34561 0.0715332L6.54578 3.76526H10.4296L7.28752 6.04811L8.48769 9.74184L5.34561 7.45899L2.20354 9.74184L3.40371 6.04811L0.261633 3.76526H4.14545L5.34561 0.0715332Z" fill="#768134"/>
-                                        <path d="M15.6093 0.0715332L16.8094 3.76526H20.6933L17.5512 6.04811L18.7514 9.74184L15.6093 7.45899L12.4672 9.74184L13.6674 6.04811L10.5253 3.76526H14.4091L15.6093 0.0715332Z" fill="#768134"/>
-                                        <path d="M26.3007 0.0715332L27.5009 3.76526H31.3847L28.2426 6.04811L29.4428 9.74184L26.3007 7.45899L23.1586 9.74184L24.3588 6.04811L21.2167 3.76526H25.1005L26.3007 0.0715332Z" fill="#768134"/>
-                                        <path d="M36.6708 0.0715332L37.871 3.76526H41.7548L38.6127 6.04811L39.8129 9.74184L36.6708 7.45899L33.5287 9.74184L34.7289 6.04811L31.5868 3.76526H35.4706L36.6708 0.0715332Z" fill="#768134"/>
-                                        <path d="M47.3622 0.0715332L48.5624 3.76526H52.4462L49.3041 6.04811L50.5043 9.74184L47.3622 7.45899L44.2201 9.74184L45.4203 6.04811L42.2782 3.76526H46.162L47.3622 0.0715332Z" fill="#DDD9D9"/>
-                                    </svg>
-                                    <span style="padding-bottom:10px">(16)</span>
-                                    <div class="quantity-buy">
-                                        <img src="./img/shopping-cart 10.svg" alt="">
-                                        <span>1.145</span>
+                                <div class="form-ship">
+                                    <span>FREESHIP HCM</span>
+                                    <span>BEST</span>
+                                </div>
+                                <div class="product-name">
+                                    <a href=""><h4>BNBG</h4></a>
+                                </div>
+                                <div class="product-content crop-text2">
+                                    <a href="">Mặt Nạ Miếng Dưỡng Ẩm, Dưỡng Trắng, Giảm Mụn, Phục Hồi Da Mặt Nạ Miếng Dưỡng Ẩm, Dưỡng Trắng, Giảm Mụn, Phục Hồi Da</a>
+                                </div>
+                                <div class="product-price">
+                                    <div class="discount">
+                                        <span class="original-price">339.000 đ</span>
+                                        <span class="discounted-price">400.000 đ</span>
+                                    </div>
+                                    <span class="discount-percentage">
+                                        -15%
+                                    </span>
+                                </div>
+                                <div class="level-of-liking">
+                                    <div class="review">
+                                        <svg id="review-star" xmlns="http://www.w3.org/2000/svg" width="53" height="11" viewBox="0 0 53 11" fill="none">
+                                            <path d="M5.34561 0.0715332L6.54578 3.76526H10.4296L7.28752 6.04811L8.48769 9.74184L5.34561 7.45899L2.20354 9.74184L3.40371 6.04811L0.261633 3.76526H4.14545L5.34561 0.0715332Z" fill="#768134"/>
+                                            <path d="M15.6093 0.0715332L16.8094 3.76526H20.6933L17.5512 6.04811L18.7514 9.74184L15.6093 7.45899L12.4672 9.74184L13.6674 6.04811L10.5253 3.76526H14.4091L15.6093 0.0715332Z" fill="#768134"/>
+                                            <path d="M26.3007 0.0715332L27.5009 3.76526H31.3847L28.2426 6.04811L29.4428 9.74184L26.3007 7.45899L23.1586 9.74184L24.3588 6.04811L21.2167 3.76526H25.1005L26.3007 0.0715332Z" fill="#768134"/>
+                                            <path d="M36.6708 0.0715332L37.871 3.76526H41.7548L38.6127 6.04811L39.8129 9.74184L36.6708 7.45899L33.5287 9.74184L34.7289 6.04811L31.5868 3.76526H35.4706L36.6708 0.0715332Z" fill="#768134"/>
+                                            <path d="M47.3622 0.0715332L48.5624 3.76526H52.4462L49.3041 6.04811L50.5043 9.74184L47.3622 7.45899L44.2201 9.74184L45.4203 6.04811L42.2782 3.76526H46.162L47.3622 0.0715332Z" fill="#DDD9D9"/>
+                                        </svg>
+                                        <span style="padding-bottom:10px">(16)</span>
+                                        <div class="quantity-buy">
+                                            <img src="./img/shopping-cart 10.svg" alt="">
+                                            <span>1.145</span>
+                                        </div>
+                                    </div>
+                                    <div class="like">
+                                        <img src="./img/heart 8.svg" alt="" style="color: red;">
                                     </div>
                                 </div>
-                                <div class="like">
-                                    <img src="./img/heart 8.svg" alt="" style="color: red;">
+                                <div class="gift-sale">
+                                    <span class="crop-text1" >Tặng băng đô cột tóc bất kì khi mua mặt nạ miếng dưỡng ẩm, dưỡng trắng,giảm mụn, phục hồi da</span>
                                 </div>
                             </div>
-                            <div class="gift-sale">
-                                <span class="crop-text1" >Tặng băng đô cột tóc bất kì khi mua mặt nạ miếng dưỡng ẩm, dưỡng trắng,giảm mụn, phục hồi da</span>
-                            </div>
-                        </div>
+                        </a>
                     </div>
                 </div>
                 <div class="swiper-pagination" ></div>
@@ -402,11 +412,265 @@
             </div>
 
         </div>
+        <div class="category-products">
+            <h2>DANH MỤC SẢN PHẨM</h2>
+            <div class="list-type-products">
+                <div id="type-products">
+                    <div class="type-products_img">
+                        <img src="./img/typeProduct (1).webp" alt="">
+                    </div>
+                    <div class="type-products_name">
+                        <h3>Bộ sản phẩm</h3>
+                    </div>
+                    <div class="type-products_quantity">
+                        <span>116 sản phẩm</span>
+                    </div>
+                </div>
+                <div id="type-products">
+                    <div class="type-products_img">
+                        <img src="./img/typeProduct (2).webp" alt="">
+                    </div>
+                    <div class="type-products_name">
+                        <h3>Bộ sản phẩm</h3>
+                    </div>
+                    <div class="type-products_quantity">
+                        <span>116 sản phẩm</span>
+                    </div>
+                </div>
+                <div id="type-products">
+                    <div class="type-products_img">
+                        <img src="./img/typeProduct (3).webp" alt="">
+                    </div>
+                    <div class="type-products_name">
+                        <h3>Bộ sản phẩm</h3>
+                    </div>
+                    <div class="type-products_quantity">
+                        <span>116 sản phẩm</span>
+                    </div>
+                </div>
+                <div id="type-products">
+                    <div class="type-products_img">
+                        <img src="./img/typeProduct (4).webp" alt="">
+                    </div>
+                    <div class="type-products_name">
+                        <h3>Bộ sản phẩm</h3>
+                    </div>
+                    <div class="type-products_quantity">
+                        <span>116 sản phẩm</span>
+                    </div>
+                </div>
+                <div id="type-products">
+                    <div class="type-products_img">
+                        <img src="./img/typeProduct (5).webp" alt="">
+                    </div>
+                    <div class="type-products_name">
+                        <h3>Bộ sản phẩm</h3>
+                    </div>
+                    <div class="type-products_quantity">
+                        <span>116 sản phẩm</span>
+                    </div>
+                </div>
+                <div id="type-products">
+                    <div class="type-products_img">
+                        <img src="./img/typeProduct (6).webp" alt="">
+                    </div>
+                    <div class="type-products_name">
+                        <h3>Bộ sản phẩm</h3>
+                    </div>
+                    <div class="type-products_quantity">
+                        <span>116 sản phẩm</span>
+                    </div>
+                </div>
+                <div id="type-products">
+                    <div class="type-products_img">
+                        <img src="./img/typeProduct (7).webp" alt="">
+                    </div>
+                    <div class="type-products_name">
+                        <h3>Bộ sản phẩm</h3>
+                    </div>
+                    <div class="type-products_quantity">
+                        <span>116 sản phẩm</span>
+                    </div>
+                </div>
+                <div id="type-products">
+                    <div class="type-products_img">
+                        <img src="./img/typeProduct (8).webp" alt="">
+                    </div>
+                    <div class="type-products_name">
+                        <h3>Bộ sản phẩm</h3>
+                    </div>
+                    <div class="type-products_quantity">
+                        <span>116 sản phẩm</span>
+                    </div>
+                </div>
+                <div id="type-products">
+                    <div class="type-products_img">
+                        <img src="./img/typeProduct (9).webp" alt="">
+                    </div>
+                    <div class="type-products_name">
+                        <h3>Bộ sản phẩm</h3>
+                    </div>
+                    <div class="type-products_quantity">
+                        <span>116 sản phẩm</span>
+                    </div>
+                </div>
+                <div id="type-products">
+                    <div class="type-products_img">
+                        <img src="./img/typeProduct (10).webp" alt="">
+                    </div>
+                    <div class="type-products_name">
+                        <h3>Bộ sản phẩm</h3>
+                    </div>
+                    <div class="type-products_quantity">
+                        <span>116 sản phẩm</span>
+                    </div>
+                </div>
+                <div id="type-products">
+                    <div class="type-products_img">
+                        <img src="./img/typeProduct (11).webp" alt="">
+                    </div>
+                    <div class="type-products_name">
+                        <h3>Bộ sản phẩm</h3>
+                    </div>
+                    <div class="type-products_quantity">
+                        <span>116 sản phẩm</span>
+                    </div>
+                </div>
+                <div id="type-products">
+                    <div class="type-products_img">
+                        <img src="./img/typeProduct (12).webp" alt="">
+                    </div>
+                    <div class="type-products_name">
+                        <h3>Bộ sản phẩm</h3>
+                    </div>
+                    <div class="type-products_quantity">
+                        <span>116 sản phẩm</span>
+                    </div>
+                </div>
+                <div id="type-products">
+                    <div class="type-products_img">
+                        <img src="./img/typeProduct (13).webp" alt="">
+                    </div>
+                    <div class="type-products_name">
+                        <h3>Bộ sản phẩm</h3>
+                    </div>
+                    <div class="type-products_quantity">
+                        <span>116 sản phẩm</span>
+                    </div>
+                </div>
+                <div id="type-products">
+                    <div class="type-products_img">
+                        <img src="./img/typeProduct (14).webp" alt="">
+                    </div>
+                    <div class="type-products_name">
+                        <h3>Bộ sản phẩm</h3>
+                    </div>
+                    <div class="type-products_quantity">
+                        <span>116 sản phẩm</span>
+                    </div>
+                </div>
+            </div>
+            <div class="brand-products">
+                <div class="brand-products_name">
+                    <h1>THƯƠNG HIỆU NỔI BẬT</h1>
+                    <P>BoShop tự hào là Đại lí phân phối chính thức của hơn 100 thương hiệu mỹ phẩm hàng đầu</P>
+                    <a href="">Xem tất cả thương hiệu*7+</a>
+                </div>
+                <div class="brand-products_trend">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div id="type-products">
+                                <div class="type-products_img">
+                                    <img src="./img/typeProduct (13).webp" alt="">
+                                </div>
+                                <div class="type-products_name">
+                                    <h3>Bộ sản phẩm</h3>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div id="type-products">
+                                <div class="type-products_img">
+                                    <img src="./img/typeProduct (13).webp" alt="">
+                                </div>
+                                <div class="type-products_name">
+                                    <h3>Bộ sản phẩm</h3>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div id="type-products">
+                                <div class="type-products_img">
+                                    <img src="./img/typeProduct (13).webp" alt="">
+                                </div>
+                                <div class="type-products_name">
+                                    <h3>Bộ sản phẩm</h3>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div id="type-products">
+                                <div class="type-products_img">
+                                    <img src="./img/typeProduct (13).webp" alt="">
+                                </div>
+                                <div class="type-products_name">
+                                    <h3>Bộ sản phẩm</h3>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div id="type-products">
+                                <div class="type-products_img">
+                                    <img src="./img/typeProduct (13).webp" alt="">
+                                </div>
+                                <div class="type-products_name">
+                                    <h3>Bộ sản phẩm</h3>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div id="type-products">
+                                <div class="type-products_img">
+                                    <img src="./img/typeProduct (13).webp" alt="">
+                                </div>
+                                <div class="type-products_name">
+                                    <h3>Bộ sản phẩm</h3>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div id="type-products">
+                                <div class="type-products_img">
+                                    <img src="./img/typeProduct (13).webp" alt="">
+                                </div>
+                                <div class="type-products_name">
+                                    <h3>Bộ sản phẩm</h3>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div id="type-products">
+                                <div class="type-products_img">
+                                    <img src="./img/typeProduct (13).webp" alt="">
+                                </div>
+                                <div class="type-products_name">
+                                    <h3>Bộ sản phẩm</h3>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-pagination" ></div>
+                        <div class="swiper-button-prev"></div>
+                        <div class="swiper-button-next"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </section>
     <script src="./js/jquery-3.6.3.min.js"></script>
     <script src="./swiper-slider/swiper-bundle.min.js"></script>
     <!-- slide -->
     <script src="./assets/swiper-slider/swiper-bundle.min.css"></script>
     <script src="./js/slide-sale.js"></script>
+    <script src="./js/slide-brand.js"></script>
 </body>
 </html> 

@@ -1,5 +1,5 @@
-var swiper = new Swiper('.sale-products ', {
-    slidesPerView:5,
+var swiper = new Swiper('.brand-products_trend ', {
+    slidesPerView:4,
     spaceBetween:30,
     speed: 1000, 
     loop: true,
